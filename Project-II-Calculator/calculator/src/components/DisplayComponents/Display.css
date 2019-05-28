@@ -2,4 +2,9 @@
     height: 16%;
     width: 100%;
     border: solid red 1px;
+    text-align: right;
+    font-size: 4rem;
+    box-sizing: border-box;
+    background-color: grey;
+    color: white;
 }
