@@ -46,7 +46,7 @@
 - Create a `<CardContainer/ >` container component that will hold your card components.
  x - Create a `<CardBanner />` component that will display this image as it's background: https://tk-assets.lambdaschool.com/fcd75197-7d12-46ec-bc9e-4130f34822fa_reactbackground.png
  x - Create a `<CardContent />` component that displays the card copy provided.
- ? - The entire `<CardContainer />` should take a user to `https://www.reactjs.org` when clicked.
+ x - The entire `<CardContainer />` should take a user to `https://www.reactjs.org` when clicked.
 
 #### Project 1 Stretch Problems
 

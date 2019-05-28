@@ -6,16 +6,14 @@ import CardContent from './CardContent'
 
 const CardContainer = props => {
     return (
-        <div className = "cardContainer" href = "https://www.reactjs.org">
+        <a className = "cardContainer" href = "https://www.reactjs.org">
             <CardBanner />
             <CardContent />
-        </div>
+        </a>
+        
     )
 }
 
-// let cardContainer = document.querySelector(".cardContainer");
-// cardContainer.addEventListener('click', function(){
-//     console.log("HELLO");
-// })
+
 
 export default CardContainer;
