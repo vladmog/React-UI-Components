@@ -1,0 +1,43 @@
+.calculator {
+    height: 500px;
+    width: 250px;
+    border: solid black 1px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.input {
+    height: 84%;
+    width: 74%;
+}
+
+.numbers {
+    display: flex;
+    flex-wrap: wrap;
+    height: 68%;
+}
+
+.digit {
+    width: 33%;
+    height: 33%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.actionButton {
+    width: 100%;
+    height: 16%;
+}
+
+.operators {
+    height: 84%;
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+}
+
+.operatorButton {
+    height: 20%;
+    width: 100%;
+    background-color: red;
+}
