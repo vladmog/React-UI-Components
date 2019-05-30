@@ -1,0 +1,15 @@
+.calculator {
+    height: 500px;
+    width: 400px;
+    border: solid black 1px;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+
+.input {
+    height: 84%;
+    width: 75%;
+    box-sizing: border-box;
+}
+
